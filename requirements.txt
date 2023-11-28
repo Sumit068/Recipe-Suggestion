@@ -1,0 +1,11 @@
+# Recipe Suggestion requirements
+# Usage: pip install -r requirements.txt
+
+matplotlib==3.7.3
+numpy=1.24.3
+openai==0.28.0
+Pillow==10.0.1
+streamlit==1.28.2
+torch
+torchaudio
+torchvision
