@@ -1,6 +1,7 @@
 # Recipe-Suggestion
 
-It is streamlit application where user can upload image then my model will identify vegetables and suggest recipe. 
+It is streamlit application where user can upload image then my model will identify vegetables and suggest recipe.  
+I achieved 85%+ accuracy.  
 
 Used technology :-  
 yoloV5  
